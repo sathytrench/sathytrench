@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="C:\Users\sathy\sathytrench\assets\Twinkling.gif" alt="Banner of a pixellated night sky with a crescent moon and twinkling stars glowing white, pink, and blue">
+  <img src="https://github.com/sathytrench/sathytrench/blob/master/assets/Twinkling.gif" alt="Banner of a pixellated night sky with a crescent moon and twinkling stars glowing white, pink, and blue">
 </h1>
 
 ## ANAHIT GULIAN // SOFTWARE ENGINEER
@@ -19,7 +19,7 @@ to absorb, and exploring the weird nooks and crannies of New York.
 🔗 Connect with me on [LinkedIn](1)! 🔗
 
 <h1 align="center">
-  <img src="C:\Users\sathy\sathytrench\assets\FAIRYflying clone.gif" alt="Blue fairy with white wings and a wand hovering in a black background">
+  <img src="https://github.com/sathytrench/sathytrench/blob/master/assets/FAIRYflying%20clone.gif" alt="Blue fairy with white wings and a wand hovering in a black background">
 </h1>
 
 <!-- Links -->
