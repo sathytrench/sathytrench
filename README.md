@@ -19,7 +19,7 @@ to absorb, and exploring the weird nooks and crannies of New York.
 🔗 Connect with me on [LinkedIn](1)! 🔗
 
 <h1 align="center">
-  <img src="https://github.com/sathytrench/sathytrench/blob/master/assets/FAIRYflying%20clone.gif" alt="Blue fairy with white wings and a wand hovering in a black background">
+  <img src="https://github.com/sathytrench/sathytrench/blob/master/assets/FAIRYflying%20clone.gif" alt="Blue fairy with white wings and a wand hovering in a black background" height="100">
 </h1>
 
 <!-- Links -->
