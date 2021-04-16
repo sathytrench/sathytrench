@@ -14,14 +14,10 @@ adding my own hand-drawn art and pixel sprite animations into games. Outside
 of coding, I love writing short stories, finding cool anime/manga/games/music 
 to absorb, and exploring the weird nooks and crannies of New York. 
 
-💙 View my artwork [here](2) 💙
+💙 View my artwork [here](https://www.instagram.com/a7n7a7h7i7t/) 💙
 
-🔗 Connect with me on [LinkedIn](1)! 🔗
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anahitgulian/)! 🔗
 
 <h1 align="center">
   <img src="https://github.com/sathytrench/sathytrench/blob/master/assets/FAIRYflying%20clone.gif" alt="Blue fairy with white wings and a wand hovering in a black background" height="100">
 </h1>
-
-<!-- Links -->
-[1]: https://www.linkedin.com/in/anahitgulian/
-[2]: https://www.instagram.com/a7n7a7h7i7t/
