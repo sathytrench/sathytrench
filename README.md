@@ -23,7 +23,7 @@ is a Tetris clone that lets players practice and improve their RegEx skills.
 
 Outside of coding, I love writing short stories, printmaking, finding cool anime/manga/games/music 
 to absorb, and exploring the weird nooks and crannies of New York. I hope to meet 
-more people who want to use coding to create weird and beautiful things!
+more people who want to use coding to create strange and beautiful things!
 
 💙 View my artwork [here](https://www.instagram.com/a7n7a7h7i7t/) 💙
 
