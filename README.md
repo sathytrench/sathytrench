@@ -7,9 +7,9 @@
 Hi! I'm an artist, writer, and engineer living in NYC. I attended the Grace
 Hopper Program at Fullstack Academy, where I learned as much JavaScript as I 
 could while being blasted with the fire-hose of fullstack developer education
-(including Express, Node.js, PostgreSQL, React, Redux, and Sequelize). Currently
-I'm a software engineering apprentice at [Upstatement](https://upstatement.com/),
-where I've been learning a lot more about Git, Ruby-on-Rails, and React Native.
+(including Express, Node.js, PostgreSQL, React, Redux, and Sequelize). I recently
+completed a software engineering apprenticeship at [Upstatement](https://upstatement.com/) 
+and I'm currently seeking my next full-time engineering role.
 
 I grew up allergic to the computer (but very into videogames), went to school for creative 
 writing, and spent some time in New York's poetry and printmaking worlds. 
@@ -25,11 +25,13 @@ Outside of coding, I love writing short stories, printmaking, finding cool anime
 to absorb, and exploring the weird nooks and crannies of New York. I hope to meet 
 more people who want to use coding to create strange and beautiful things!
 
+🦋 Visit my [website] (https://anahitgulian.com) 🦋
+
 💙 View my artwork [here](https://www.instagram.com/a7n7a7h7i7t/) 💙
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anahitgulian/)! 🔗
 
-🌷 Read my coding articles on [Medium](https://anahit-gulian.medium.com/) 🌷
+🌷 Read some of my thoughts on coding [here](https://anahit-gulian.medium.com/) 🌷
 
 <h1 align="center">
   <img src="https://github.com/sathytrench/sathytrench/blob/master/assets/FAIRYflying%20clone.gif" alt="Blue fairy with white wings and a wand hovering in a black background" height="100">
