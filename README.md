@@ -7,7 +7,9 @@
 Hi! I'm an artist, writer, and engineer living in NYC. I attended the Grace
 Hopper Program at Fullstack Academy from fall 2020 to winter 2021,
 completed a software engineering apprenticeship at [Upstatement](https://upstatement.com/) from 
-spring 2021 to winter 2022, and now work as a software engineer for [Civiqs](https://civiqs.com/).
+spring 2021 to winter 2022. I then worked as a software engineer for [Civiqs](https://civiqs.com/)
+for three years, building web apps on top of the research team's data science work. I'm
+currently looking for my next job, so if you like anything you see here, get in touch!
 
 I grew up allergic to the computer (but very into videogames), went to school for creative 
 writing, and spent some time in New York's poetry and printmaking worlds. 
